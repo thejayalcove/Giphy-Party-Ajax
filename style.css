@@ -1,3 +1,9 @@
 body {
   background-color: #333;
 }
+
+/* Putting some space between images */
+img {
+  width: 300px;
+  margin: 10px;
+}
